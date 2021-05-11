@@ -1,0 +1,9 @@
+C:\Users\CH\source\repos\CinemaStore.Utility\bin\Debug\netcoreapp3.1\CinemaStore.Utility.deps.json
+C:\Users\CH\source\repos\CinemaStore.Utility\bin\Debug\netcoreapp3.1\CinemaStore.Utility.dll
+C:\Users\CH\source\repos\CinemaStore.Utility\bin\Debug\netcoreapp3.1\CinemaStore.Utility.pdb
+C:\Users\CH\source\repos\CinemaStore.Utility\obj\Debug\netcoreapp3.1\CinemaStore.Utility.csprojAssemblyReference.cache
+C:\Users\CH\source\repos\CinemaStore.Utility\obj\Debug\netcoreapp3.1\CinemaStore.Utility.AssemblyInfoInputs.cache
+C:\Users\CH\source\repos\CinemaStore.Utility\obj\Debug\netcoreapp3.1\CinemaStore.Utility.AssemblyInfo.cs
+C:\Users\CH\source\repos\CinemaStore.Utility\obj\Debug\netcoreapp3.1\CinemaStore.Utility.csproj.CoreCompileInputs.cache
+C:\Users\CH\source\repos\CinemaStore.Utility\obj\Debug\netcoreapp3.1\CinemaStore.Utility.dll
+C:\Users\CH\source\repos\CinemaStore.Utility\obj\Debug\netcoreapp3.1\CinemaStore.Utility.pdb
